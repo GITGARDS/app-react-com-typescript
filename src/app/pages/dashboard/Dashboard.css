@@ -1,0 +1,16 @@
+ul {
+  width: 300px;
+}
+ul li {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+ul li p {
+  text-align: left;
+}
+
+ul li button {
+  min-width: 150px;
+}
